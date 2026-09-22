@@ -1,4 +1,4 @@
-''export default function Results({ input }) {
+export default function Results({ input }) {
     console.log(input);
     return <p className="center">Results...</p>;
   }
